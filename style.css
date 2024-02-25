@@ -78,6 +78,7 @@ h2 {
     width: 100%;
     flex-direction: column;
     justify-content: center;
+    overflow
 }
 
 .school-card {
@@ -97,6 +98,9 @@ h2 {
     height: 150px;
     background: #fff;
     margin-bottom: 10px;
+    background-image: url(assets/pexels-hannah-nelson-1456951.jpg);
+    background-size: cover;
+    background-position: center;
 }
 
 .knowmore-btn {
